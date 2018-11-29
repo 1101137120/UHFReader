@@ -1,0 +1,9 @@
+c:\users\abby\documents\visual studio 2015\Projects\excelctxt1119\excelctxt1119\bin\Debug\excelctxt1119.exe.config
+c:\users\abby\documents\visual studio 2015\Projects\excelctxt1119\excelctxt1119\bin\Debug\excelctxt1119.exe
+c:\users\abby\documents\visual studio 2015\Projects\excelctxt1119\excelctxt1119\bin\Debug\excelctxt1119.pdb
+c:\users\abby\documents\visual studio 2015\Projects\excelctxt1119\excelctxt1119\obj\Debug\excelctxt1119.csprojResolveAssemblyReference.cache
+c:\users\abby\documents\visual studio 2015\Projects\excelctxt1119\excelctxt1119\obj\Debug\excelctxt1119.Form1.resources
+c:\users\abby\documents\visual studio 2015\Projects\excelctxt1119\excelctxt1119\obj\Debug\excelctxt1119.Properties.Resources.resources
+c:\users\abby\documents\visual studio 2015\Projects\excelctxt1119\excelctxt1119\obj\Debug\excelctxt1119.csproj.GenerateResource.Cache
+c:\users\abby\documents\visual studio 2015\Projects\excelctxt1119\excelctxt1119\obj\Debug\excelctxt1119.exe
+c:\users\abby\documents\visual studio 2015\Projects\excelctxt1119\excelctxt1119\obj\Debug\excelctxt1119.pdb

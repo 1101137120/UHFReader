@@ -1,0 +1,9 @@
+C:\Users\abby\Documents\Visual Studio 2015\Projects\excelctxt1119\excelctxt1119\bin\x86\Debug\excelctxt1119.exe.config
+C:\Users\abby\Documents\Visual Studio 2015\Projects\excelctxt1119\excelctxt1119\bin\x86\Debug\excelctxt1119.exe
+C:\Users\abby\Documents\Visual Studio 2015\Projects\excelctxt1119\excelctxt1119\bin\x86\Debug\excelctxt1119.pdb
+C:\Users\abby\Documents\Visual Studio 2015\Projects\excelctxt1119\excelctxt1119\obj\x86\Debug\excelctxt1119.csprojResolveAssemblyReference.cache
+C:\Users\abby\Documents\Visual Studio 2015\Projects\excelctxt1119\excelctxt1119\obj\x86\Debug\excelctxt1119.Form1.resources
+C:\Users\abby\Documents\Visual Studio 2015\Projects\excelctxt1119\excelctxt1119\obj\x86\Debug\excelctxt1119.Properties.Resources.resources
+C:\Users\abby\Documents\Visual Studio 2015\Projects\excelctxt1119\excelctxt1119\obj\x86\Debug\excelctxt1119.csproj.GenerateResource.Cache
+C:\Users\abby\Documents\Visual Studio 2015\Projects\excelctxt1119\excelctxt1119\obj\x86\Debug\excelctxt1119.exe
+C:\Users\abby\Documents\Visual Studio 2015\Projects\excelctxt1119\excelctxt1119\obj\x86\Debug\excelctxt1119.pdb
